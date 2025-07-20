@@ -1,0 +1,27 @@
+# 忽略 VSCode 配置文件
+.vscode/
+
+# 忽略 Windows 系统生成的文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 忽略编译生成的中间文件
+*.obj
+*.exe
+*.out
+*.log
+
+# 忽略临时文件
+*.tmp
+*.swp
+
+# 忽略调试文件
+*.pdb
+
+# 忽略 CMake 构建文件
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
