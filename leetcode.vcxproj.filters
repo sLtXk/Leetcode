@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\动态规划">
+      <UniqueIdentifier>{1ffb41fa-ffba-4d6c-9e0c-644ce2d59e3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\哈希表">
+      <UniqueIdentifier>{49eb0e01-f0f3-4d40-9cc2-a7c41d27dcc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\矩阵和数组">
+      <UniqueIdentifier>{76bcd134-9a6d-4b7e-818d-80c38c392824}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++容器应用">
+      <UniqueIdentifier>{754bd70a-ffa8-436f-a68e-64a906eeb20c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\字符串">
+      <UniqueIdentifier>{dcf9ed64-4f37-49ce-970e-b621a72203a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\滑动窗口&amp;双指针">
+      <UniqueIdentifier>{cefd028a-8c4e-4ea1-8146-5c238af90342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\链表">
+      <UniqueIdentifier>{10f66e2f-241c-4500-bae2-eab2e8da23c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\多解">
+      <UniqueIdentifier>{17993fed-c0cb-4077-b24f-a2e31f1b878d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\二分查找">
+      <UniqueIdentifier>{a4a09833-987a-4060-88f8-c19b53f3434d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\图论">
+      <UniqueIdentifier>{49138c4b-c8ef-44cf-9a4f-0ffb500b91cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\真题">
+      <UniqueIdentifier>{d64ab6c9-ae7d-4b85-ab32-9cb27b2880dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\回溯">
+      <UniqueIdentifier>{8a1e84fe-3a5c-4df4-8224-f9495050d4fc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="55跳跃游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45跳跃游戏II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134加油站.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="135分发糖果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42接雨水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5最长回文子串（DP）.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="120三角路径最小和（DP）.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="121买卖股票的最佳时机（DP）.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="122买卖股票的最佳时机II（DP）.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="139单词拆分%28DP%29.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="931下降路径最小和（DP）.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="279完全平方数DP.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="322零钱兑换(DP).cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="6 Z字型变换.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="12整数转罗马数字.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="13罗马数字转整数.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="36有效的数独.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="73矩阵置零.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="189轮转数组.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="518零钱兑换II.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="54螺旋矩阵.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="289生命游戏.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="209长度最小的子数组.cpp">
+      <Filter>源文件\滑动窗口&amp;双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="516最长回文子序列.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="1441用栈构造操作数组.cpp">
+      <Filter>源文件\C++容器应用</Filter>
+    </ClCompile>
+    <ClCompile Include="380 O(1)时间插入，删除和获取随机元素.cpp">
+      <Filter>源文件\C++容器应用</Filter>
+    </ClCompile>
+    <ClCompile Include="3无重复字符的最长子串.cpp">
+      <Filter>源文件\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="5最长回文子串（中心扩展）.cpp">
+      <Filter>源文件\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="128最长连续序列.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="49字母异位词分组.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="151反转字符串中的单词.cpp">
+      <Filter>源文件\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="309买卖股票的最佳时机含冷冻期（DP）.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="238除自身以外的数组乘积.cpp">
+      <Filter>源文件\滑动窗口&amp;双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="756重构字符串.cpp">
+      <Filter>源文件\C++容器应用</Filter>
+    </ClCompile>
+    <ClCompile Include="202快乐数.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="48旋转图像.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="739每日温度.cpp">
+      <Filter>源文件\C++容器应用</Filter>
+    </ClCompile>
+    <ClCompile Include="draft.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57插入区间.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="56合并区间.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="452用最少的箭射爆气球.cpp">
+      <Filter>源文件\矩阵和数组</Filter>
+    </ClCompile>
+    <ClCompile Include="150逆波兰表达式.cpp">
+      <Filter>源文件\C++容器应用</Filter>
+    </ClCompile>
+    <ClCompile Include="138随机链表的复制.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="92反转链表II.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="19删除链表中的倒数第n个节点.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="82删除排序链表中的重复元素.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="61旋转链表.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="86分隔链表.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="146 LRU缓存.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="34在排序数组中查找元素的第一个和最后一个位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139单词拆分.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="300最长递增子序列.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="97交错字符串.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="72编辑距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="221最大正方形.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="438找到字符串中的所有字母异位词.cpp">
+      <Filter>源文件\滑动窗口&amp;双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="560和为k的子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11盛最多水的容器.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="53最大子数组和.cpp">
+      <Filter>源文件\多解</Filter>
+    </ClCompile>
+    <ClCompile Include="74搜索二维矩阵.cpp">
+      <Filter>源文件\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="240搜索二维矩阵II.cpp">
+      <Filter>源文件\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="200岛屿数量.cpp">
+      <Filter>源文件\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="695最大岛屿面积.cpp">
+      <Filter>源文件\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="1254统计封闭岛屿的数量.cpp">
+      <Filter>源文件\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="华为真题1%28图论：拓扑排序+BFS%29.cpp">
+      <Filter>源文件\真题</Filter>
+    </ClCompile>
+    <ClCompile Include="荣耀真题1%28贪心+字符串整型转换%29.cpp">
+      <Filter>源文件\真题</Filter>
+    </ClCompile>
+    <ClCompile Include="130被围绕的区域.cpp">
+      <Filter>源文件\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="399除法求值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="207课程表.cpp">
+      <Filter>源文件\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="210课程表II.cpp">
+      <Filter>源文件\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="78子集.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="77组合.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="46全排列.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="17电话号码的字母组合.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="39组合总和.cpp">
+      <Filter>源文件\回溯</Filter>
+    </ClCompile>
+    <ClCompile Include="133克隆图.cpp">
+      <Filter>源文件\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="华为真题3.cpp">
+      <Filter>源文件\真题</Filter>
+    </ClCompile>
+    <ClCompile Include="华为真题2%28消去poker中三张连续相同的牌%29.cpp">
+      <Filter>源文件\真题</Filter>
+    </ClCompile>
+    <ClCompile Include="华为真题4%28贪心%29.cpp">
+      <Filter>源文件\真题</Filter>
+    </ClCompile>
+    <ClCompile Include="华为真题5%28图论：dijkstra+路径回溯%29.cpp">
+      <Filter>源文件\真题</Filter>
+    </ClCompile>
+    <ClCompile Include="华为真题7(dijkstra+路径回溯).cpp">
+      <Filter>源文件\真题</Filter>
+    </ClCompile>
+    <ClCompile Include="华为真题6%28ip转换+贪心%29.cpp">
+      <Filter>源文件\真题</Filter>
+    </ClCompile>
+    <ClCompile Include="32最长括号匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
